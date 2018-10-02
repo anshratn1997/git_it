@@ -1,0 +1,3 @@
+1- git init => to intialize the git.
+2- git status => to look at git status.
+3- git commit -m 'message' => this is to commit changes with message.
